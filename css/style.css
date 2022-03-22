@@ -1,0 +1,162 @@
+body{
+	
+}
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+	padding: 20px 0;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+
+#herotitle{
+	text-align: center;
+	background-image: url("../img/Services-Title-Image.jpg");
+	background-size: cover;
+	background-position: top center;
+	color: #fff;
+	padding: 50px;
+}
+
+
+#herotitle h1{
+	font-size: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+#icons{
+	padding: 30px;
+}
+#icons i{
+	font-size: 100px;
+	color: #e0e0e0;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+	
+}
+
+#icons2 i{
+	font-size: 30px;
+	color: #53c3c9;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+	
+}
+
+#icons h4{
+	color: #303030;
+	font-size: 20px;
+}
+
+#icons p{
+	font-size: 17px;
+}
+
+#info{
+	background-color: #f7f7f7;
+	text-align: center;
+	padding: 30px;
+}
+
+
+
+.subtitulo{
+	font-size: 24px;
+	color: #303030;
+	font-weight: 400;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.titulo{
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#features{
+	text-align: left;
+}
+#features1{
+	background-color: #3d4248;
+	padding: 20px;
+	color: #fff;
+}
+
+#features2{
+	background-color: #d8d8d8;
+	padding: 20px;
+	color: #fff;
+}
+
+#features3{
+	background-color: #f0f0f0;
+	padding: 20px;
+	color: #030000;
+}
+.feature h4{
+	font-size: 24px;
+	color: #ffff;
+	font-weight: 400;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.titulo1{
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+footer{
+	background-color: #282d33;
+	color: #bbb;
+	padding: 20px 0;
+	font-size: 14px;
+	text-align: left;
+	
+}
+
+footer li a{
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #171717;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	color: #58606b;
+	font-size: 16px;
+}
+
+footer li a{
+	background-color: #000;
+	color: #fff;
+	
+}
+
+#footer2{
+	background-color: #1B1B1B;
+	color: #404040;
+	text-align: center;
+	padding: 20px;
+	
+}
+
